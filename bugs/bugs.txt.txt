@@ -1,0 +1,40 @@
+1. Button "Updated for iOS 16" is not clickable.
+
+2. Button "WATCH VIDEO" is not clickable.
+
+3. Button "VISIT" is not clickable.
+
+4. Button "LEARN MORE" is not clickable.
+
+5. Missing image on MONTREAL Card.
+
+6. "GET THE APP" Button in Section "Text styles, variants and overlays" is not clickable.
+
+7. "DOWNLOAD" button in Section "Multiple pages with unique content" is not clickable.
+
+8. "TRY FOR FREE" button in "Free Plan" in Section "Ready to start?" is not clickable.
+
+9. "SUBSCRIBE" button in "Basic Plan" and "Pro Plan" in Section "Ready to start?" are not clickable.
+
+10. There is no difference between Basic Plan" and "Pro Plan" in Section "Ready to start?".
+
+11. "Sign Up" button in Section "Subscribe to our newsletter" is not clickable.
+
+12. "Copyright © 2022 DesignCode" at the very bottom of the page should be "Copyright © 2023 DesignCode"
+
+13. The six button, next to Section "Subscribe to our newsletter" are not clickable.
+
+14. Terms and Privacy Policy at the very bottom of the page are not clickable.
+
+15. There is an error "spline.design refused to connect.": 1st - click on "Click to view in 3D" button to see 3D visualization. 2nd - click on the 
+colorful dot in the bottom right of that 3D visualization.
+
+16. There is no blur effect when you click on the "SIGN UP" button on the top right corner.
+
+17.When you try to Sign up, there is an error message for "Password" field that is about missing "@" symbol.
+
+18. Typing password is not crypted.
+
+19. There is no boarders for length of Email and Password.
+
+20. There is no "Log In" button.
